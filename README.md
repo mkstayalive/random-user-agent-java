@@ -13,3 +13,5 @@ This will return a random user-agent string with the following probability:
 	Chrome: 52.9%
 	Safari: 3.9%
 	Opera: 1.8%
+	
+Kotlin version of this code added.
