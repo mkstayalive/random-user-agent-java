@@ -1,6 +1,6 @@
-# random-user-agent-java
+# random-user-agent-java&kotlin
 
-Generate Random User-agent strings in java. Useful in web-scraping. 
+Generate Random User-agent strings in java and kotlin. Useful in web-scraping. 
 
 Just import the file in your project and call
 
@@ -13,5 +13,3 @@ This will return a random user-agent string with the following probability:
 	Chrome: 52.9%
 	Safari: 3.9%
 	Opera: 1.8%
-	
-Kotlin version of this code added.
