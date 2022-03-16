@@ -1,4 +1,4 @@
-# random-user-agent-java&kotlin
+# random-user-agent-java & kotlin
 
 Generate Random User-agent strings in java and kotlin. Useful in web-scraping. 
 
